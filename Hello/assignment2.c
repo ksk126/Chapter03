@@ -20,7 +20,7 @@ int main()
 
 void Main()
 {
-	int nx, ny;
+	int nx=0, ny=0;
 
 	printf("가로의 길이? ");
 	scanf("%d", &nx);

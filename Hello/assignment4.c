@@ -20,7 +20,7 @@ int main()
 
 void Main()
 {
-	double N, m;
+	double N=0, m=0;
 
 	printf("Èû(N)? ");
 	scanf("%lf", &N);

@@ -21,7 +21,7 @@ int main()
 
 void Main()
 {
-	double m;
+	double m=0;
 	printf("아파트의 면적(제곱미터)? ");
 	scanf("%lf",&m);
 

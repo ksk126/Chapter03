@@ -20,7 +20,7 @@ int main()
 
 void assignment0303()
 {
-    double m, kg;
+    double m=0, kg=0;
 
     printf("Áú·®(kg)? ");
     scanf("%lf", &kg);

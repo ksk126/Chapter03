@@ -22,7 +22,7 @@ int main()
 
 void Main()
 {
-	double Float;
+	double Float=0;
 	printf("½Ç¼ö? ");
 	scanf("%lf", &Float);
 
